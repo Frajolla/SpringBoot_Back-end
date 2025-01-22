@@ -15,4 +15,4 @@
     "password":"password",
 }</pre>
 <br>
-<p>As devidas documentações dos métodos GET, POST, PUT e DELETE estão em [localhost:8080/](http://localhost:8080/swagger-ui/index.html</p>
+<p>As devidas documentações dos métodos GET, POST, PUT e DELETE estão em <code>http://localhost:8080/swagger-ui/index.html</code></p>
