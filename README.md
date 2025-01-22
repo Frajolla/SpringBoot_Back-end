@@ -1,7 +1,6 @@
 # SpringBoot_Back-end
 <p>É uma aplicação Spring boot com 5 entidades, conforme figura <code>entidades.jpeg</code>, funcionando com autenticação auth0.</p>
-<p>Para criar um usuário deve-se fazer o método post de: <code>localhost:8080/users</code></p> e com JSON no formato de:
-<br>
+<p>Para criar um usuário deve-se fazer o método post de: <code>localhost:8080/users</code>e com JSON no formato de:</p>
 <pre style="background-color:#f4f4f4;padding:10px;border-left:5px solid #ccc; color:#333;">
 {
     "email":"email",
